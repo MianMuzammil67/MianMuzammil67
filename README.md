@@ -2,7 +2,7 @@
 - 👀 I’m interested in development
 - 🌱 I’m currently learning Kotlin
 - 💞️ I’m looking to collaborate on big project of android development
-- 📫 How to reach me 
+- 📫 How to reach me mianmuzammil30@gmail.com
 
 <!---
 MianMuzammil67/MianMuzammil67 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
