@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 - 💞️ I’m looking to collaborate on big project of android development
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me **mianmuzammil30@gmail.com**
+- 📫 How to reach me **muzammil.dev67@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
